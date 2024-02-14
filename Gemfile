@@ -26,7 +26,7 @@ group :test do
   gem 'redcarpet',                                                  :require => false
   gem 'rubocop', '~> 0.93.0',                                       :require => false
   gem 'rubocop-rspec', '~> 1.44.0',                                 :require => false
-  gem 'mocha', '~> 1.16.0',                                          :require => false
+  gem 'mocha', '~> 2.1.0',                                          :require => false
   gem 'coveralls',                                                  :require => false
   gem 'simplecov-console',                                          :require => false
   gem 'parallel_tests',                                             :require => false
