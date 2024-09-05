@@ -24,7 +24,7 @@ group :test do
   gem 'puppet-lint-topscope-variable-check',                        :require => false
   gem 'metadata-json-lint',                                         :require => false
   gem 'redcarpet',                                                  :require => false
-  gem 'rubocop', '~> 0.93.0',                                       :require => false
+  gem 'rubocop', '~> 0.93.1',                                       :require => false
   gem 'rubocop-rspec', '~> 1.44.1',                                 :require => false
   gem 'mocha', '~> 1.16.0',                                          :require => false
   gem 'coveralls',                                                  :require => false
